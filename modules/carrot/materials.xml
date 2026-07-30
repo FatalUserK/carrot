@@ -26,7 +26,7 @@
     		</Ingestion>
     	</StatusEffects>
     	<Graphics
-    		texture_file="mods/carrot/files/carrot.png"
+    		texture_file="mods/userk.debug/modules/carrot/carrot.png"
     		color="fff58718">
 		</Graphics>
   	</CellDataChild>
