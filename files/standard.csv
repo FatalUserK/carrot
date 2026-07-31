@@ -1,2 +1,5 @@
 userk.carrot.carrot_name,Porgand,,,,,,,,,,,,,,,,
 userk.carrot.carrot_desc,"Enchanted old carrot.\nPoint and squeeze to instantly relocate the wielder. Do not eat.\n---\nLeft-click to blink, right-click to hold.\n---\nHang on, isn't this from the wrong mod!",,,,,,,,,,,,,,,,
+userk.cheats.cheat_executed,Cheat activated: $0,,,,,,,,,,,,,,,,
+userk.cheats.silenced_log,SILENCED,,,,,,,,,,,,,,,,
+userk.cheats.silenced_logdesc,A mysterious force blocks your attempts,,,,,,,,,,,,,,,,

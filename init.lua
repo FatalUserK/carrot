@@ -16,6 +16,8 @@ local callbacks = {
 
 local modules = {
 	"carrot",
+	"profiler",
+	"cheats",
 }
 
 
